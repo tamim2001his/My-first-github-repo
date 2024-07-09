@@ -1,0 +1,18 @@
+ li{
+            color: brown;background-color: cadetblue;width: 50%;
+        }
+        .first{
+            color: green;text-align-last: left;
+        }
+        #second{
+            color: white;
+        }
+        .first1{
+            color: rgb(7, 7, 7);background-color: rgb(26, 216, 26);
+        }
+        li{
+            color: yellow;
+        }
+        .first, #second, {
+            color: black;
+        }
